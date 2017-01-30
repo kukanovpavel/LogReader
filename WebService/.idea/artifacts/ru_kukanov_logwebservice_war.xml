@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ru.kukanov.logwebservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ru.kukanov.logwebservice-1.0.0.war">
+      <element id="artifact" artifact-name="ru.kukanov.logwebservice:war exploded" />
+    </root>
+  </artifact>
+</component>
